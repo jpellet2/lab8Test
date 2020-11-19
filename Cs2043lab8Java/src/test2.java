@@ -1,4 +1,5 @@
 
-public class test2 {
+public class HelloApp {
+	
 
 }
